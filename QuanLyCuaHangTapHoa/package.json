@@ -1,0 +1,16 @@
+{
+  "name": "quan-ly-cua-hang-tap-hoa",
+  "version": "1.0.0",
+  "description": "He thong Quan ly Cua hang Tap hoa - Mon Nhap mon Cong nghe Phan mem",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "pos",
+    "grocery-store",
+    "management-system"
+  ],
+  "author": "Grocery Store Management Team",
+  "license": "MIT"
+}
